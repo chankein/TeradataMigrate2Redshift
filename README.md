@@ -1,5 +1,3 @@
-# TeradataMigrate2Redshift
-
 ---
 
 # Teradata to Redshift DDL Converter  
