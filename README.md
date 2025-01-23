@@ -1,0 +1,1 @@
+# TeradataMigrate2Redshift
